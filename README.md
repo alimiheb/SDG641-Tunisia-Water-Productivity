@@ -442,15 +442,13 @@ $$
 ### Prerequisites
 - Python 3.10+
 - Conda or virtualenv
-- 10 GB free disk space (WaPOR data)
-- WaPOR API account (https://wapor.apps.fao.org/sign-up)
-
+  
 ### Installation
 
 **Option 1: Conda (recommended)**
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/SDG641_Tunisia_WaterProductivity.git
+git clone https://github.com/alimiheb/SDG641_Tunisia_WaterProductivity.git
 cd SDG641_Tunisia_WaterProductivity
 
 # Create environment
@@ -472,21 +470,8 @@ pip install -r requirements.txt
 
 ### Configuration
 
-1. **WaPOR API credentials**:
-```bash
-cp config/wapor_credentials.json.example config/wapor_credentials.json
-```
+**Analysis parameters** (optional):
 
-Edit `config/wapor_credentials.json`:
-```json
-{
-  "APIToken": "YOUR_API_TOKEN_HERE"
-}
-```
-
-Get token from: https://wapor.apps.fao.org/profile
-
-2. **Analysis parameters** (optional):
 Edit `config/config.yaml` to change:
 - Data paths
 - Temporal range
@@ -498,7 +483,7 @@ Edit `config/config.yaml` to change:
 **Run notebooks in order**:
 
 ```bash
-# 1. Data download (~2 hours, 8 GB)
+# 1. Data download
 jupyter notebook notebooks/01_data_download.ipynb
 
 # 2. Data exploration (~15 min)
@@ -519,9 +504,6 @@ jupyter notebook notebooks/06_spatial_analysis.ipynb
 # 7. Visualizations (~15 min)
 jupyter notebook notebooks/07_visualization.ipynb
 ```
-
-**Total runtime**: ~4 hours (first run)  
-**Subsequent runs**: ~2 hours (data cached)
 
 ### Output Files
 
@@ -619,26 +601,6 @@ data/processed/
 
 ---
 
-## 👥 Authors & Contributions
-
-**Lead Researcher**: Iheb Alimi  
-**Institution**: [Your institution]  
-**Contact**: [Your email]
-
-### Contributions
-- Data download & preprocessing: Iheb Alimi
-- ETb & AWP calculation: Iheb Alimi
-- Spatial analysis: Iheb Alimi
-- Visualization: Iheb Alimi
-- Documentation: Iheb Alimi
-
-### Acknowledgments
-- FAO Land and Water Division for WaPOR data
-- World Bank for AQUASTAT database
-- GADM for administrative boundaries
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** - see LICENSE file for details.
@@ -649,11 +611,11 @@ If you use this work, please cite:
 
 ```bibtex
 @misc{alimi2025sdg641tunisia,
-  author = {Alimi, Iheb},
+  author = {Alimi Iheb},
   title = {SDG 6.4.1 Agricultural Water Productivity Analysis for Tunisia (2018-2023)},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/SDG641_Tunisia_WaterProductivity}
+  url = {https://github.com/alimiheb/SDG641_Tunisia_WaterProductivity}
 }
 ```
 
@@ -663,23 +625,11 @@ If you use this work, please cite:
 
 ### Common Issues
 
-**1. WaPOR API timeout**:
-```python
-# In notebooks/01_data_download.ipynb, increase timeout:
-downloader = WaPORDownloader(timeout=300)  # 5 minutes
-```
-
-**2. Memory error during raster processing**:
-```python
-# Use chunked processing in src/data/preprocessor.py:
-raster = rasterio.open(file, chunks=(1000, 1000))
-```
-
-**3. Missing governorate in results**:
+**1. Missing governorate in results**:
 - Check name mapping in `src/analysis/spatial_stats.py`
 - GMIA uses old names (e.g., "Dschunduba" → "Jendouba")
 
-**4. Figures not saving**:
+**2. Figures not saving**:
 ```bash
 # Ensure output directories exist:
 mkdir -p results/presentation results/report
@@ -687,8 +637,8 @@ mkdir -p results/presentation results/report
 
 ### Getting Help
 
-- **Issues**: https://github.com/yourusername/SDG641_Tunisia_WaterProductivity/issues
-- **Email**: [your.email@example.com]
+- **Issues**: https://github.com/alimiheb/SDG641_Tunisia_WaterProductivity/issues
+- **Email**: [iheb.alimi@insat.ucar.tn]
 - **Documentation**: See `docs/rapport_final.md`
 
 ---
