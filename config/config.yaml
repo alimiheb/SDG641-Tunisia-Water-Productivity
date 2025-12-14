@@ -1,0 +1,59 @@
+area_of_interest: &id001
+  bbox:
+  - 7.5
+  - 30.0
+  - 11.6
+  - 37.5
+  country: Tunisia
+  country_code: TN
+calculation:
+  awp:
+    min_pixel_count: 10
+    threshold_irrigated: 0.7
+  etb:
+    wp_default: 50
+    wpb_default: 30
+land_cover:
+  irrigated_classes:
+  - 41
+  - 42
+  rainfed_classes:
+  - 43
+output:
+  maps_dpi: 300
+  maps_format: png
+  tables_format: csv
+processing:
+  chunk_size: 1000
+  compression: lzw
+  nodata_value: -9999
+  parallel_workers: 4
+project:
+  data_dir: ../data
+  name: SDG641_Tunisia_WaterProductivity
+study_area: *id001
+temporal:
+  dekad_end: 36
+  dekad_start: 1
+  end_year: 2023
+  start_year: 2015
+  years:
+  - 2015
+  - 2016
+  - 2017
+  - 2018
+  - 2019
+  - 2020
+  - 2021
+  - 2022
+  - 2023
+visualization:
+  colormap_awp: RdYlGn
+  colormap_et: YlGnBu
+  figure_size:
+  - 12
+  - 8
+wapor:
+  api_version: v2
+  base_url: https://io.apps.fao.org/gismgr/api/v2/
+  wcs_url: https://io.apps.fao.org/geoserver/wapor/ows

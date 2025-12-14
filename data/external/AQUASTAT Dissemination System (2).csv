@@ -1,0 +1,121 @@
+m49,VariableGroup,Subgroup,Variable,Area,Year,Value,Unit,Symbol,IsAggregate
+788,Geography and population,"Economy, development and food security",% of agricultural GVA produced by irrigated agriculture,Tunisia,2017,16.643400031,%,E,false
+788,Geography and population,"Economy, development and food security",% of agricultural GVA produced by irrigated agriculture,Tunisia,2018,18.656498168,%,E,false
+788,Geography and population,"Economy, development and food security",% of agricultural GVA produced by irrigated agriculture,Tunisia,2019,18.374894336,%,E,false
+788,Geography and population,"Economy, development and food security",% of agricultural GVA produced by irrigated agriculture,Tunisia,2020,17.346146895,%,E,false
+788,Geography and population,"Economy, development and food security",% of agricultural GVA produced by irrigated agriculture,Tunisia,2021,17.346146895,%,E,false
+788,Geography and population,"Economy, development and food security",% of agricultural GVA produced by irrigated agriculture,Tunisia,2022,17.346146895,%,E,false
+788,Irrigation and drainage development,Irrigated crop yield,Ratio between rainfed and irrigated yields,Tunisia,2017,2.146,,I,false
+788,Irrigation and drainage development,Irrigated crop yield,Ratio between rainfed and irrigated yields,Tunisia,2018,2.146,,I,false
+788,Irrigation and drainage development,Irrigated crop yield,Ratio between rainfed and irrigated yields,Tunisia,2019,2.146,,I,false
+788,Irrigation and drainage development,Irrigated crop yield,Ratio between rainfed and irrigated yields,Tunisia,2020,2.146,,I,false
+788,Irrigation and drainage development,Irrigated crop yield,Ratio between rainfed and irrigated yields,Tunisia,2021,2.146,,I,false
+788,Irrigation and drainage development,Irrigated crop yield,Ratio between rainfed and irrigated yields,Tunisia,2022,2.146,,I,false
+788,Water resources,Precipitation,Long-term average annual precipitation in depth,Tunisia,2017,207,mm/year,X,false
+788,Water resources,Precipitation,Long-term average annual precipitation in depth,Tunisia,2018,207,mm/year,X,false
+788,Water resources,Precipitation,Long-term average annual precipitation in depth,Tunisia,2019,207,mm/year,I,false
+788,Water resources,Precipitation,Long-term average annual precipitation in depth,Tunisia,2020,207,mm/year,I,false
+788,Water resources,Precipitation,Long-term average annual precipitation in depth,Tunisia,2021,207,mm/year,I,false
+788,Water resources,Precipitation,Long-term average annual precipitation in depth,Tunisia,2022,207,mm/year,I,false
+788,Water resources,Precipitation,Long-term average annual precipitation in volume,Tunisia,2017,33.86727,10^9 m3/year,E,false
+788,Water resources,Precipitation,Long-term average annual precipitation in volume,Tunisia,2018,33.86727,10^9 m3/year,E,false
+788,Water resources,Precipitation,Long-term average annual precipitation in volume,Tunisia,2019,33.86727,10^9 m3/year,I,false
+788,Water resources,Precipitation,Long-term average annual precipitation in volume,Tunisia,2020,33.86727,10^9 m3/year,I,false
+788,Water resources,Precipitation,Long-term average annual precipitation in volume,Tunisia,2021,33.86727,10^9 m3/year,I,false
+788,Water resources,Precipitation,Long-term average annual precipitation in volume,Tunisia,2022,33.86727,10^9 m3/year,I,false
+788,Water resources,Precipitation,National Rainfall Index (NRI),Tunisia,2017,326.1,mm/year,I,false
+788,Water resources,Precipitation,National Rainfall Index (NRI),Tunisia,2018,326.1,mm/year,I,false
+788,Water resources,Precipitation,National Rainfall Index (NRI),Tunisia,2019,326.1,mm/year,I,false
+788,Water resources,Precipitation,National Rainfall Index (NRI),Tunisia,2020,326.1,mm/year,I,false
+788,Water resources,Precipitation,National Rainfall Index (NRI),Tunisia,2021,326.1,mm/year,I,false
+788,Water resources,Precipitation,National Rainfall Index (NRI),Tunisia,2022,326.1,mm/year,I,false
+788,Water use,Pressure on water resources,Agricultural water withdrawal as % of total renewable water resources,Tunisia,2017,58.309859155,%,E,false
+788,Water use,Pressure on water resources,Agricultural water withdrawal as % of total renewable water resources,Tunisia,2018,63.54496208,%,E,false
+788,Water use,Pressure on water resources,Agricultural water withdrawal as % of total renewable water resources,Tunisia,2019,63.553629469,%,E,false
+788,Water use,Pressure on water resources,Agricultural water withdrawal as % of total renewable water resources,Tunisia,2020,58.72156013,%,E,false
+788,Water use,Pressure on water resources,Agricultural water withdrawal as % of total renewable water resources,Tunisia,2021,58.72156013,%,E,false
+788,Water use,Pressure on water resources,Agricultural water withdrawal as % of total renewable water resources,Tunisia,2022,58.72156013,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Industrial Water Use Efficiency,Tunisia,2017,122.964177125,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Industrial Water Use Efficiency,Tunisia,2018,252.684477919,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Industrial Water Use Efficiency,Tunisia,2019,169.871972183,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Industrial Water Use Efficiency,Tunisia,2020,152.793761637,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Industrial Water Use Efficiency,Tunisia,2021,170.847462277,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Industrial Water Use Efficiency,Tunisia,2022,176.554143344,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,Tunisia,2017,0.276028594,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,Tunisia,2018,0.32053467,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,Tunisia,2019,0.316437185,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,Tunisia,2020,0.314001113,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,Tunisia,2021,0.319949857,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,Tunisia,2022,0.317113947,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Services Water Use Efficiency,Tunisia,2017,36.6450427,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Services Water Use Efficiency,Tunisia,2018,35.523875001,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Services Water Use Efficiency,Tunisia,2019,37.527674268,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Services Water Use Efficiency,Tunisia,2020,35.761483813,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Services Water Use Efficiency,Tunisia,2021,37.365648126,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Services Water Use Efficiency,Tunisia,2022,38.400868223,US$/m3,E,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Water Use Efficiency,Tunisia,2017,11.727925758,US$/m3,I,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Water Use Efficiency,Tunisia,2018,11.263467845,US$/m3,I,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Water Use Efficiency,Tunisia,2019,11.44371641,US$/m3,I,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Water Use Efficiency,Tunisia,2020,11.003057064,US$/m3,I,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Water Use Efficiency,Tunisia,2021,11.683728627,US$/m3,I,false
+788,Water use,Pressure on water resources,SDG 6.4.1. Water Use Efficiency,Tunisia,2022,12.015383929,US$/m3,I,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Agricultural Sector Contribution to Water Stress,Tunisia,2017,66.628308585,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Agricultural Sector Contribution to Water Stress,Tunisia,2018,73.224445535,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Agricultural Sector Contribution to Water Stress,Tunisia,2019,73.558398782,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Agricultural Sector Contribution to Water Stress,Tunisia,2020,74.116996093,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Agricultural Sector Contribution to Water Stress,Tunisia,2021,74.116996093,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Agricultural Sector Contribution to Water Stress,Tunisia,2022,74.116996093,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Industrial Sector Contribution to Water Stress,Tunisia,2017,2.228371525,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Industrial Sector Contribution to Water Stress,Tunisia,2018,1.145583292,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Industrial Sector Contribution to Water Stress,Tunisia,2019,1.700395308,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Industrial Sector Contribution to Water Stress,Tunisia,2020,1.692930649,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Industrial Sector Contribution to Water Stress,Tunisia,2021,1.692930649,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Industrial Sector Contribution to Water Stress,Tunisia,2022,1.692930649,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Municipal Sector Contribution to Water Stress,Tunisia,2017,20.674335811,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Municipal Sector Contribution to Water Stress,Tunisia,2018,21.628752374,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Municipal Sector Contribution to Water Stress,Tunisia,2019,21.051796774,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Municipal Sector Contribution to Water Stress,Tunisia,2020,22.303472441,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Municipal Sector Contribution to Water Stress,Tunisia,2021,22.303472441,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Municipal Sector Contribution to Water Stress,Tunisia,2022,22.303472441,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Water Stress,Tunisia,2017,89.531015921,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Water Stress,Tunisia,2018,95.9987812,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Water Stress,Tunisia,2019,96.310590864,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Water Stress,Tunisia,2020,98.113399182,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Water Stress,Tunisia,2021,98.113399182,%,E,false
+788,Water use,Pressure on water resources,SDG 6.4.2. Water Stress,Tunisia,2022,98.113399182,%,E,false
+788,Water use,Water withdrawal by sector,Agricultural water withdrawal,Tunisia,2017,2.691,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Agricultural water withdrawal,Tunisia,2018,2.9326,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Agricultural water withdrawal,Tunisia,2019,2.933,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Agricultural water withdrawal,Tunisia,2020,2.71,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Agricultural water withdrawal,Tunisia,2021,2.71,10^9 m3/year,I,false
+788,Water use,Water withdrawal by sector,Agricultural water withdrawal,Tunisia,2022,2.71,10^9 m3/year,I,false
+788,Water use,Water withdrawal by sector,Industrial water withdrawal,Tunisia,2017,0.09,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Industrial water withdrawal,Tunisia,2018,0.04588,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Industrial water withdrawal,Tunisia,2019,0.0678,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Industrial water withdrawal,Tunisia,2020,0.0619,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Industrial water withdrawal,Tunisia,2021,0.0619,10^9 m3/year,I,false
+788,Water use,Water withdrawal by sector,Industrial water withdrawal,Tunisia,2022,0.0619,10^9 m3/year,I,false
+788,Water use,Water withdrawal by sector,Irrigation water withdrawal,Tunisia,2017,2.691,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Irrigation water withdrawal,Tunisia,2018,2.9326,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Irrigation water withdrawal,Tunisia,2019,2.9326,10^9 m3/year,I,false
+788,Water use,Water withdrawal by sector,Irrigation water withdrawal,Tunisia,2020,2.9326,10^9 m3/year,I,false
+788,Water use,Water withdrawal by sector,Irrigation water withdrawal,Tunisia,2021,2.9326,10^9 m3/year,I,false
+788,Water use,Water withdrawal by sector,Irrigation water withdrawal,Tunisia,2022,2.9326,10^9 m3/year,I,false
+788,Water use,Water withdrawal by sector,Total water withdrawal,Tunisia,2017,3.616,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Total water withdrawal,Tunisia,2018,3.8447,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Total water withdrawal,Tunisia,2019,3.8402,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Total water withdrawal,Tunisia,2020,3.5874,10^9 m3/year,A,false
+788,Water use,Water withdrawal by sector,Total water withdrawal,Tunisia,2021,3.5874,10^9 m3/year,I,false
+788,Water use,Water withdrawal by sector,Total water withdrawal,Tunisia,2022,3.5874,10^9 m3/year,I,false
+788,Water use,Water withdrawal by source,Fresh groundwater withdrawal,Tunisia,2017,2.691,10^9 m3/year,A,false
+788,Water use,Water withdrawal by source,Fresh groundwater withdrawal,Tunisia,2018,2.73472,10^9 m3/year,A,false
+788,Water use,Water withdrawal by source,Fresh groundwater withdrawal,Tunisia,2019,2.747,10^9 m3/year,A,false
+788,Water use,Water withdrawal by source,Fresh groundwater withdrawal,Tunisia,2020,2.818,10^9 m3/year,A,false
+788,Water use,Water withdrawal by source,Fresh groundwater withdrawal,Tunisia,2021,2.818,10^9 m3/year,I,false
+788,Water use,Water withdrawal by source,Fresh groundwater withdrawal,Tunisia,2022,2.818,10^9 m3/year,I,false
+788,Water use,Water withdrawal by source,Total freshwater withdrawal,Tunisia,2017,3.526,10^9 m3/year,A,false
+788,Water use,Water withdrawal by source,Total freshwater withdrawal,Tunisia,2018,3.78072,10^9 m3/year,A,false
+788,Water use,Water withdrawal by source,Total freshwater withdrawal,Tunisia,2019,3.793,10^9 m3/year,E,false
+788,Water use,Water withdrawal by source,Total freshwater withdrawal,Tunisia,2020,3.864,10^9 m3/year,E,false
+788,Water use,Water withdrawal by source,Total freshwater withdrawal,Tunisia,2021,3.864,10^9 m3/year,E,false
+788,Water use,Water withdrawal by source,Total freshwater withdrawal,Tunisia,2022,3.864,10^9 m3/year,E,false
